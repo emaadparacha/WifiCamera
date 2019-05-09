@@ -264,7 +264,4 @@ class Row
   {
     return pixel;
   }
-
 }
-
-
