@@ -1,6 +1,6 @@
 # WiFi Camera: Visualizing the 2.4GHz band (WiFi) of the electromagnetic spectrum
 
-Please visit http://www.wifiimagingcamera.com/ for more information about the project and sample WiFi images!
+Visit http://www.wifiimagingcamera.com/ for more information about the project and sample WiFi images!
 
 ## About the project
 The WiFi Camera is a camera that allows users to visualize the 2.4 GHz frequency band for wireless 802.11 communication into a 2D image. It is similar in concept to images from Charged Couple Devices or X-ray imaging.
