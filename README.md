@@ -24,4 +24,3 @@ The Arduino code powering the nRF24L01 is called "Arduino_nRF24L01.cc" and the P
 To test the code, sample logs are provided in the folder: "SampleLogs", with two measurements each for angles 70, 80, 90, 100, 110 degrees from the horizontal. The corresponding picture is "Sample Output Image.png".
 
 More WiFi images can be found at http://www.wifiimagingcamera.com/.
-
